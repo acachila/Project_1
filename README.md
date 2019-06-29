@@ -1,4 +1,5 @@
-# Title: Impact of Provider Prescribing Patterns in United States: A Claims Database Analysis.
+# Title: 
+Impact of Provider Prescribing Patterns in United States: A Claims Database Analysis.
 
 # Group:
 Hadijat Makinde, Alex Talento, Tyler Cobb, Armi Cachila, John Rafferty, Rick Clauss, Yazan Rizeq 
