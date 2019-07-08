@@ -1,0 +1,276 @@
+specialty,claim_count,opioid_count,opioid_amount
+Pain Management,13759671,7833359,0.569298423
+Interventional Pain Management,16988702,9614500,0.565934937
+Hand Surgery,835455,462414,0.553487621
+Anesthesiology,19937443,10705790,0.536969059
+Orthopedic Surgery,28585000,13181847,0.461145601
+"Day Training, Developmentally Disabled Services",96,44,0.458333333
+Physical Medicine and Rehabilitation,28489929,11927966,0.418673069
+Neurosurgery,3773174,1537677,0.407528781
+"Nursing Facility, Other (Dmercs Only)",907,338,0.372657111
+Certified Registered Nurse Anesthetist (CRNA),47901,16448,0.343374877
+Maxillofacial Surgery,1223088,407295,0.333005475
+Oral Surgery (dentists only),3315978,1103778,0.332866503
+"Assistant, Podiatric",562,183,0.325622776
+Oral & Maxillofacial Surgery,233852,75585,0.323217249
+Oral Surgery (Dentists only),1273556,397695,0.31227131
+Orthopaedic Surgery,615166,185891,0.302180225
+Plastic and Reconstructive Surgery,2059312,601945,0.292303935
+CRNA,149467,41235,0.275880295
+Denturist,2008,516,0.256972112
+Sports Medicine,813385,208687,0.256566079
+Physical Therapist in Private Practice,3076,781,0.25390117
+Surgical Oncology,323210,80383,0.248702082
+Psychiatric Residential Treatment Facility,281,69,0.245551601
+Neurological Surgery,132757,29603,0.222986359
+"Neuromusculoskeletal Medicine, Sports Medicine",73433,13950,0.189969087
+Vascular Surgery,2666383,503686,0.188902344
+General Surgery,20328653,3809644,0.187402677
+Colon & Rectal Surgery,15313,2862,0.18690002
+Surgery,65680,11276,0.171680877
+Physical Therapist,52119,8886,0.170494445
+Plastic Surgery,196444,33416,0.170104457
+Colorectal Surgery (formerly proctology),849151,144412,0.170066337
+Thoracic Surgery,1371849,218856,0.159533593
+Radiation Oncology,2315898,360847,0.155812993
+Hospice and Palliative Care,1499103,226561,0.151131043
+Colorectal Surgery (Proctology),311421,46125,0.148111399
+Addiction Medicine,674115,98965,0.146807295
+"Emergency Medical Technician, Intermediate",1123,164,0.1460374
+Gynecological/Oncology,715472,103431,0.144563309
+Gynecological Oncology,233913,33800,0.144498168
+Slide Preparation Facility,2480,357,0.143951613
+Emergency Medicine,69058568,9807016,0.142010127
+Physical Medicine & Rehabilitation,6461,903,0.139761647
+Dentist,33942939,4465046,0.131545651
+Interventional Radiology,431183,54317,0.125972035
+Rheumatology,47656107,5615656,0.11783707
+Medical Oncology,8464537,989421,0.11689015
+Hematology/Oncology,21110961,2447128,0.115917414
+Phlebology,5679,623,0.109702412
+Hematology-Oncology,7556487,809114,0.107075417
+Hematology,1658658,176786,0.106583756
+Rehabilitation Practitioner,11142,1165,0.104559325
+Nursing Care,347,36,0.103746398
+Point of Service,7845,783,0.099808795
+Podiatry,15110695,1469586,0.097254693
+Chiropractic,102247,9650,0.094379297
+Ambulatory Surgical Center,4422,400,0.090456807
+Ambulance Service Supplier,540,48,0.088888889
+Physician Assistant,223280235,19630966,0.087920751
+Preventive Medicine,1820336,156721,0.086094545
+Cardiac Surgery,1769412,151136,0.085415946
+Dental Hygienist,2364,198,0.083756345
+Osteopathic Manipulative Medicine,3515051,285252,0.081151596
+Military Hospital,1651,124,0.075105996
+Clinic or Group Practice,94798,6962,0.073440368
+Developmental Therapist,1033,75,0.072604066
+Personal Emergency Response Attendant,124353,8752,0.070380288
+Chore Provider,2780,193,0.06942446
+Religious Nonmedical Nursing Personnel,4373,287,0.065630002
+Military Health Care Provider,8850,574,0.064858757
+Diagnostic Radiology,1724138,108266,0.062794277
+"Spec/Tech, Cardiovascular",437,27,0.061784897
+Nurse Practitioner,431685240,26650801,0.061736651
+Thoracic Surgery (Cardiothoracic Vascular Surgery),74228,4560,0.061432344
+Specialist,3471538,211921,0.061045277
+Technician/Technologist,1428,85,0.05952381
+"Emergency Medical Technician, Basic",6453,375,0.058112506
+Durable Medical Equipment & Medical Supplies,1762,102,0.057888763
+Dental Assistant,1408,81,0.057528409
+Multispecialty Clinic/Group Practice,464686,26634,0.057316123
+SNF (Dmercs Only),6919,381,0.055065761
+Registered Nurse,1671414,90716,0.054275003
+Family Practice,1635605246,83619084,0.051124245
+Neurology,84518074,4150757,0.04911088
+Unknown Supplier/Provider Specialty,3177,155,0.048788165
+Student in an Organized Health Care Education/Training Program,22647571,1071748,0.047322867
+Family Medicine,1881356,88090,0.046822611
+Optician,1912,88,0.046025105
+Chronic Disease Hospital,15567,703,0.045159633
+"Respiratory Therapist, Registered",709,32,0.045133992
+Case Manager/Care Coordinator,49515,2164,0.043703928
+General Practice,132485523,5760470,0.043479996
+Naturopath,265471,11536,0.043454841
+Internal Medicine,1715687012,71777195,0.041835833
+Geriatric Medicine,47620850,1982833,0.041637917
+Pathology,525306,21691,0.041292123
+Licensed Practical Nurse,147674,6072,0.041117597
+Otolaryngology,18547344,748080,0.040333538
+Rehabilitation Agency,70467,2835,0.040231598
+Independent Medical Examiner,39073,1532,0.039208661
+Pediatric Medicine,10940230,424421,0.038794523
+"Genetic Counselor, MS",1442,54,0.037447989
+Acupuncturist,39919,1488,0.037275483
+Speech Language Pathologist,21349,780,0.036535669
+Health Maintenance Organization,41174,1497,0.036357896
+Legal Medicine,523118,18841,0.03601673
+Pharmacist,2202021,79280,0.03600329
+General Acute Care Hospital,247246,8692,0.03515527
+Urology,53085278,1844296,0.034742137
+Unknown Physician Specialty Code,442937,15193,0.034300589
+Preferred Provider Organization,9098,312,0.034293251
+Orthotic Fitter,323,11,0.034055728
+Assisted Living Facility,1518,50,0.032938076
+Hospitalist,805658,26169,0.032481524
+Clinic/Center,786738,25140,0.03195473
+Clinical Pharmacology,22539,711,0.031545321
+Unknown Supplier/Provider,17355,495,0.02852204
+Peripheral Vascular Disease,227110,6312,0.0277927
+Infectious Disease,17970563,492963,0.027431695
+"Spec/Tech, Pathology",989,27,0.027300303
+Occupational therapist,18345,491,0.026764786
+Obstetrics/Gynecology,20243332,530207,0.026191686
+Nuclear Medicine,474199,12069,0.02545134
+Radiology,27391,697,0.025446314
+Homeopath,6666,167,0.025052505
+Physical Therapy Assistant,4553,110,0.024159895
+Exclusive Provider Organization,4049,97,0.023956532
+Massage Therapist,4082,96,0.023517883
+Nutritionist,1802,42,0.023307436
+Obstetrics & Gynecology,5959436,138811,0.02329264
+"Medical Genetics, Ph.D. Medical Genetics",205271,4776,0.023266803
+Specialist/Technologist,4599,106,0.023048489
+Electrodiagnostic Medicine,1478,34,0.02300406
+Anesthesiologist Assistants,3535,78,0.022065064
+Contractor,30215,660,0.021843455
+Occupational Therapy Assistant,3439,72,0.020936319
+Clinical Neuropsychologist,18280,380,0.020787746
+Rehabilitation Counselor,628,13,0.020700637
+Licensed Clinical Social Worker,74721,1544,0.020663535
+Undefined Physician type,334616,6848,0.02046525
+Certified Clinical Nurse Specialist,10239164,207504,0.020265717
+Critical Care (Intensivists),3870916,76604,0.019789631
+Audiologist (billing independently),4167,82,0.019678426
+Neuropsychiatry,2954401,57501,0.019462829
+Health Educator,2227,43,0.019308487
+Registered Dietician/Nutrition Professional,11841,219,0.01849506
+Nephrology,65112545,1181112,0.018139546
+Home Health Aide,2276,41,0.01801406
+Certified Nurse Midwife,582565,10282,0.017649533
+Driver,140168,2417,0.017243593
+Psychologist,31891,536,0.01680725
+Marriage & Family Therapist,17088,270,0.015800562
+Dermatology,30369702,428161,0.014098294
+Pulmonary Disease,53074112,719381,0.013554273
+Sleep Medicine,424971,5641,0.013273847
+Hospital (Dmercs Only),84255,1116,0.013245505
+Counselor,276996,3602,0.013003798
+Hearing Instrument Specialist,880,11,0.0125
+Pediatrics,3426,40,0.011675423
+Behavioral Analyst,10829,125,0.011543079
+Gastroenterology,50072545,495902,0.009903671
+Technician,1249,12,0.009607686
+Radiologic Technologist,1393,13,0.009332376
+Nurse's Aide,1220,11,0.009016393
+Allergy/Immunology,7368676,62933,0.008540612
+Allergy/ Immunology,2663127,22737,0.008537708
+Midwife,37738,305,0.008082039
+"Specialist/Technologist, Other",4686,35,0.007469057
+Social Worker,13110,93,0.007093822
+Medical Genetics,6063,42,0.006927264
+Cardiac Electrophysiology,6840069,47207,0.006901539
+Substance Abuse Rehabilitation Facility,2304,15,0.006510417
+Psychiatry & Neurology,19585875,125950,0.006430655
+Clinical Cardiatric Electrophysiology,3214768,19764,0.006147878
+Psychologist (billing independently),305228,1593,0.005219049
+Pharmacy,17165,87,0.005068453
+Public Health Welfare Agency,14589,73,0.00500377
+Cardiology,209899267,928501,0.004423555
+Community Health Worker,185103,778,0.004203065
+Respite Care,32397,131,0.004043584
+Endocrinology,57040501,228834,0.004011781
+Clinical Psychologist,174774,639,0.00365615
+Ophthalmology,101886702,371678,0.003647954
+Psychiatry,176759757,627586,0.003550503
+"Emergency Medical Technician, Paramedic",3229,11,0.003406627
+Cardiovascular Disease (Cardiology),66373316,225773,0.003401563
+Psychoanalyst,19942,63,0.003159162
+Mass Immunization Roster Biller,4322,12,0.002776492
+Community/Behavioral Health,6232,12,0.001925546
+Geriatric Psychiatry,1008967,1208,0.001197264
+Interventional Cardiology,14849880,13600,0.000915832
+Optometry,20781214,8594,0.000413547
+"Psychologist, Clinical",71310,11,0.000154256
+Public Health or Welfare Agency,33,0,0
+Radiology Practitioner Assistant,220,0,0
+Supplier of Oxygen and/or Oxygen Related Equip.,24,0,0
+Veterinarian,416,0,0
+"Residential Treatment Facility, Physical Disabilities",209,0,0
+Radiation Therapy,170,0,0
+"Residential Treatment Facility, Mental Retardation and/or Developmental Dis",252,0,0
+"Residential Treatment Facility, Emotionally Disturbed Children",340,0,0
+"Sleep Specialist, PhD",134,0,0
+Skilled Nursing Facility,160,0,0
+"Respiratory Therapist, Certified",640,0,0
+"Rehabilitation, Substance Use Disorder Unit",139,0,0
+"Technician, Cardiology",209,0,0
+"Spec/Tech, Health Info",30,0,0
+Registered Dietitian or Nutrition Professional,153,0,0
+"Technician, Health Information",47,0,0
+"Technician, Pathology",228,0,0
+Pulmonary Function Technologist,14,0,0
+Recreation Therapist,119,0,0
+"Medical Supply Company, Other",202,0,0
+Prosthetist,3630,0,0
+"Community Based Residential Treatment, Mental Retardation and/or Developmen",49,0,0
+Homemaker,78,0,0
+Home Health,1019,0,0
+Foster Care Agency,40,0,0
+"Eyewear Supplier (Equipment, not the service)",33,0,0
+Early Intervention Provider Agency,45,0,0
+Doula,162,0,0
+"Dietetic Technician, Registered",23,0,0
+Dietary Manager,178,0,0
+Dental Therapist,55,0,0
+Dental Laboratory Technician,144,0,0
+Dental Laboratory,11,0,0
+Day Training/Habilitation Specialist,820,0,0
+Custodial Care Facility,285,0,0
+"Community Based Residential Treatment Facility, Mental Illness",695,0,0
+Prosthetic/Orthotic Supplier,95,0,0
+Clinical Medical Laboratory,1574,0,0
+Clinical Laboratory,244,0,0
+Clinical Exercise Physiologist,14,0,0
+Centralized Flu,68,0,0
+Case Management,4399,0,0
+Audiologist-Hearing Aid Fitter,95,0,0
+Audiologist,108,0,0
+Anesthesiology Assistant,375,0,0
+Anaplastologist,60,0,0
+Alzheimer Center (Dementia Center),40,0,0
+All Other Suppliers,210,0,0
+Advanced Practice Dental Therapist,165,0,0
+Adult Companion,1679,0,0
+"Hospice, Inpatient",34,0,0
+In Home Supportive Care,323,0,0
+Independent Diagnostic Testing Facility,109,0,0
+Indian Health Service/Tribal/Urban Indian Health (I/T/U) Pharmacy,286,0,0
+Private Vehicle,28,0,0
+Portable X-ray,55,0,0
+Pharmacy Technician,1926,0,0
+Perfusionist,109,0,0
+Peer Specialist,19,0,0
+PACE Provider Organization,12,0,0
+Orthotist,59,0,0
+Oral Medicinist,260,0,0
+Occupational Therapist in Private Practice,215,0,0
+Nursing Home Administrator,183,0,0
+Non-emergency Medical Transport (VAN),319,0,0
+Non-Pharmacy Dispensing Site,961,0,0
+Naprapath,2060,0,0
+Music Therapist,27,0,0
+"Midwife, Lay",280,0,0
+Medical Supply With Resp. Therapist (Dmercs Only),11,0,0
+Mechanotherapist,938,0,0
+Mass Immunizer Roster Biller,144,0,0
+Mammographic Screening Center,20,0,0
+Lodging,160,0,0
+Local Education Agency (LEA),327,0,0
+Licensed Vocational Nurse,4543,0,0
+Licensed Psychiatric Technician,173,0,0
+"Lactation Consultant, Non-RN",152,0,0
+Kinesiotherapist,302,0,0
+Interpreter,134,0,0
+Individual Certified Prosthetist-Orthotist,33,0,0
+Voluntary Health or Charitable Agencies,462,0,0
